@@ -4,6 +4,10 @@ FizzBuzz
 The sixth project for iOS pre-course using loops
 
 ### Resources:
+- We're about to finish off (read section 4) "[Control Structures, Loops and Collections](http://codewithchris.com/how-to-make-iphone-apps-control-structures-loops-and-collections/)" intro to loops an d - Loops are pretty simple, and this article will give you a good overview.
+- For Objective-C read RyPress.com's [C Basics](http://rypress.com/tutorials/objective-c/c-basics.html). Jump down to the section on Loops.
+- For Swift read Apple's documentation on [For Loops](https://developer.apple.com/library/prerelease/mac/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html#//apple_ref/doc/uid/TP40014097-CH9-XID_192)
+
 
 ### Step 1: Get the project started on your computer and on GitHub
 - Either create a project locally and push to GitHub
