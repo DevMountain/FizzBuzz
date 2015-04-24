@@ -49,6 +49,7 @@ The sixth project for iOS pre-course using loops
 - You could look at 5, 10, 25, 95 and see if they are fizzed
 - You could look at 15, 51, 90 and see if they are fizzbuzzed
 - Example Output 1-100:
+
 1
 2
 Buzz
